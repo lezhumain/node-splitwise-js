@@ -6,7 +6,7 @@ Given a number of friends who have to give or take some amount of money from one
 Greedy.
 Settle the debts of the people with Max and Min. Credits.
 
-### Data Structure Used :
+### Data Structure Used :f
 
 1. Array : To storr the final outputs.
 2. Map : To store and get remaining individual transaction amounts in O(1) time complexity.
